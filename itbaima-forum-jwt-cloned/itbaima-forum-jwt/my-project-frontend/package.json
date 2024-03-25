@@ -1,0 +1,37 @@
+{
+  "name": "my-project-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/vue-fontawesome": "^3.0.6",
+    "@vueup/vue-quill": "^1.2.0",
+    "@vueuse/core": "^10.3.0",
+    "axios": "^1.4.0",
+    "element-plus": "^2.3.9",
+    "pinia": "^2.1.6",
+    "quill-delta-to-html": "^0.12.1",
+    "quill-image-extend-module": "^1.1.2",
+    "quill-image-resize-module": "^3.0.0",
+    "quill-image-resize-vue": "^1.0.4",
+    "quill-image-super-solution-module": "^2.0.1",
+    "vue": "^3.3.4",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^4.2.4",
+    "webpack": "^5.90.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "less": "^4.2.0",
+    "unplugin-auto-import": "^0.15.2",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.4.6"
+  }
+}
