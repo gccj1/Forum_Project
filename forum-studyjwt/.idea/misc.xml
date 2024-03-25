@@ -8,6 +8,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/itbaima-forum-jwt/my-project-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/forum-jwt/my-project-backend/pom.xml" />
       </list>
     </option>
   </component>
